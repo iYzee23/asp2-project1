@@ -1,0 +1,4 @@
+kosa|hair
+kosa|oblique
+kosa|nickname
+kosa|tool

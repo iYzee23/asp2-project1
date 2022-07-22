@@ -1,0 +1,5 @@
+﻿  dz1p2.cpp
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\1 domaci\dz1p2\dz1p2.cpp(141,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\1 domaci\dz1p2\dz1p2.cpp(144,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\1 domaci\dz1p2\dz1p2.cpp(124,15): warning C4101: 'targ': unreferenced local variable
+  dz1p2.vcxproj -> D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\1 domaci\Debug\dz1p2.exe
